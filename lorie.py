@@ -6,3 +6,5 @@ print(miniskil)
 chenn = "Haiti pap Peri Viv Haiti"
 lis_espas = chenn.split()
 print(lis_espas)
+
+print ("bonjour")
